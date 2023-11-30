@@ -24,7 +24,7 @@ body{
 .header{
     height: 100vh;
     /* 02 */
-    background-image: linear-gradient(to top, rgba(251, 194, 235, 0.486) 0%, hsl(218, 40%, 26%) 100%), url(/https://github.com/Publicidadgd/programas.github.io/blob/main/img/DALL%C2%B7E%202023-11-29%2023.37.41%20-%20A%20creative%20digital%20poster%20showcasing%20a%20variety%20of%20software%20applications.%20The%20poster%20is%20vibrant%20and%20eye-catching,%20filled%20with%20icons%20and%20screenshots%20of%20.png?raw=true);
+    background-image: linear-gradient(to top, rgba(251, 194, 235, 0.486) 0%, hsl(218, 40%, 26%) 100%), url(/img/banner.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
